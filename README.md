@@ -1,11 +1,14 @@
 <h1 align="center">Prospector</h1>
-<p align="center">Short description of the package : TODO.</p>
-
-<p align="center"><a href="https://github.com/42maru-ai/prospector/actions"><img src="https://github.com/42maru-ai/prospector/workflows/tests/badge.svg" alt="test status" /></a></p>
+<p align="center">ETL pipeline project for an unstractured text data in a format of PDF. </p>
 
 <h2 align="center">Description</h2>
+<img width="1053" alt="Screen Shot 2023-08-15 at 11 08 23 PM" src="https://github.com/evgl/prospector/assets/66017568/af06e785-dacd-4375-85dd-8c8a76718898">
 
-TODO
+<p align="center">This framework identify objects in the file and label them accordingly </p>
+<img width="1009" alt="Screen Shot 2023-08-15 at 11 06 10 PM" src="https://github.com/evgl/prospector/assets/66017568/955c90e8-3da6-426a-b1a5-b19002fa9b25">
+
+<p align="center">Each module in the pipeline can be expressed as a node. By selecting approproate nodes by constracting a custom graph, we can implement a framework with needed features and desirable output </p>
+<img width="1074" alt="Screen Shot 2023-08-15 at 11 08 02 PM" src="https://github.com/evgl/prospector/assets/66017568/1cf00f89-e4c6-44a0-a4a5-6a5a02103cdf">
 
 <h2 align="center">Install</h2>
 
@@ -58,6 +61,7 @@ with open('doc1.html', 'w') as f:
 ```
 
 ### ETL pipeline
+<img width="699" alt="Screen Shot 2023-08-15 at 11 07 07 PM" src="https://github.com/evgl/prospector/assets/66017568/0af8fb92-6ed9-4817-ad3a-5587af2441e2">
 
 Run :
 
