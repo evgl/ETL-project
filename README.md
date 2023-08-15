@@ -2,13 +2,16 @@
 <p align="center">ETL pipeline project for an unstractured text data in a format of PDF. </p>
 
 <h2 align="center">Description</h2>
-<img width="1053" alt="Screen Shot 2023-08-15 at 11 08 23 PM" src="https://github.com/evgl/prospector/assets/66017568/af06e785-dacd-4375-85dd-8c8a76718898">
+<img width="1053" alt="Screen Shot 2023-08-15 at 11 08 23 PM" src="https://github.com/evgl/ETL-project/assets/66017568/ae583c19-48f0-4366-9938-d6e2a1387b6c">
+
 
 <p align="center">This framework identify objects in the file and label them accordingly </p>
-<img width="1009" alt="Screen Shot 2023-08-15 at 11 06 10 PM" src="https://github.com/evgl/prospector/assets/66017568/955c90e8-3da6-426a-b1a5-b19002fa9b25">
+<img width="1009" alt="Screen Shot 2023-08-15 at 11 06 10 PM" src="https://github.com/evgl/ETL-project/assets/66017568/20583e9a-7c47-40a9-a5f5-1e436f7625a9">
+
 
 <p align="center">Each module in the pipeline can be expressed as a node. By selecting approproate nodes by constracting a custom graph, we can implement a framework with needed features and desirable output </p>
-<img width="1074" alt="Screen Shot 2023-08-15 at 11 08 02 PM" src="https://github.com/evgl/prospector/assets/66017568/1cf00f89-e4c6-44a0-a4a5-6a5a02103cdf">
+<img width="1074" alt="Screen Shot 2023-08-15 at 11 08 02 PM" src="https://github.com/evgl/ETL-project/assets/66017568/480380cd-62fe-4b55-9644-46e2578dedeb">
+
 
 <h2 align="center">Install</h2>
 
@@ -61,7 +64,8 @@ with open('doc1.html', 'w') as f:
 ```
 
 ### ETL pipeline
-<img width="699" alt="Screen Shot 2023-08-15 at 11 07 07 PM" src="https://github.com/evgl/prospector/assets/66017568/0af8fb92-6ed9-4817-ad3a-5587af2441e2">
+<img width="699" alt="Screen Shot 2023-08-15 at 11 07 07 PM" src="https://github.com/evgl/ETL-project/assets/66017568/6e8d5892-f877-44cf-ad67-ad70d44a57f2">
+
 
 Run :
 
