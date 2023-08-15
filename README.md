@@ -1,4 +1,4 @@
-<h1 align="center">Prospector</h1>
+<h1 align="center">ETL project</h1>
 <p align="center">ETL pipeline project for an unstractured text data in a format of PDF. </p>
 
 <h2 align="center">Description</h2>
